@@ -1,3 +1,4 @@
 {
-    "vscode-pets.throwBallWithMouse": true
+    "vscode-pets.throwBallWithMouse": true,
+    "liveServer.settings.port": 5501
 }
